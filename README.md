@@ -48,7 +48,7 @@ The model predicts the most likely answer span.
 - Answer Returned: The best answer is sent back to the client.
 
 ## Improvements
- 1.Use different Instruct model for better accuracy
- 2.Add Yes/No classifier layer
- 3.Add support for file uploads
- 4.Add frontend UI (React/HTML)
+ 1. Use different Instruct model for better accuracy
+ 2. Add Yes/No classifier layer
+ 3. Add support for file uploads
+ 4. Add frontend UI (React/HTML)
